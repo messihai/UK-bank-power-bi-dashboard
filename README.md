@@ -37,3 +37,6 @@ Microsoft Power BI – Dashboard creation, visualization
 Microsoft Excel – Data cleaning, transformation
 DAX – Calculated fields and measures for KPIs
 CSV & Excel – Raw dataset formats
+
+![image](https://github.com/user-attachments/assets/1c060de7-95d4-417d-9af0-1aca5b5ea7ba)
+
